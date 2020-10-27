@@ -1,5 +1,30 @@
 /* CSS files add styling rules to your content */
 
 h1 {
-  color: green;
+  color: #0066ff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+li{
+
+  font-size: 15px;
+  list-style-type: none;
+}
+p{
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #204060;
+}
+
+.about{
+  font-size: 30px;
+  color: blue;
+}
+ul{
+  display: flex;
+  justify-content: space-around;
+}
+img{
+  width: 300px;
+  height: 300px;
 }
